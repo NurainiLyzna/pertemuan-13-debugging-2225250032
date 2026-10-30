@@ -1,8 +1,8 @@
 # Pertemuan 13 - Debugging dan Testing
 
-Nama: Lyzna Nuraini
-NIM: 2225250032
-Kelas: 3E
+* **Nama:** Lyzna Nuraini
+* **NIM:** 2225250032
+* **Kelas:** 3E
 
 ## Kasus
 Praktikum ini berfokus pada investigasi bug, teknik *tracing*, penggunaan *debugger* VS Code, perancangan *test case* (normal, batas, tidak valid), serta dokumentasi perbaikan kode Python dan pengunggahan riwayat *commit* ke GitHub.
